@@ -1,9 +1,9 @@
-# Search Material UI Docs Workflow for Alfred 4
+# Search NestJS Docs Workflow for Alfred 4
 
 ![GitHub release](https://img.shields.io/github/release/alfonmga/mui-docs-alfred-workflow.svg)
 ![GitHub](https://img.shields.io/github/license/alfonmga/mui-docs-alfred-workflow.svg)
 
-> [Alfred 4](https://www.alfredapp.com) workflow to search through the [Material-UI](https://material-ui-next.com/) documentation.
+> [Alfred 4](https://www.alfredapp.com) workflow to search through the [NestJS](https://docs.nestjs.com) documentation.
 
 ![worflow demo](demo.png)
 
