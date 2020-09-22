@@ -9,4 +9,4 @@
 
 ## Install
 
-[Download the workflow from the latest release page](https://github.com/alfonmga/mui-docs-alfred-workflow/releases/latest) and install it by double-clicking it.
+[Download the workflow from the latest release page](https://github.com/alfonmga/nestjs-docs-alfred-workflow/releases/latest) and install it by double-clicking it.
