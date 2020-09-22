@@ -5,7 +5,7 @@
 
 > [Alfred 4](https://www.alfredapp.com) workflow to search through the [NestJS](https://docs.nestjs.com) documentation.
 
-![worflow demo](demo.png)
+![worflow demo](workflow-demo.png)
 
 ## Install
 
